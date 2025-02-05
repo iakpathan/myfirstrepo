@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my first Git Repository.
 <br>
-Author:iakpathan
+Author:iakpathan(Alikhan Pathan)
